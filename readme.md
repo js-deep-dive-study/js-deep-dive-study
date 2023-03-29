@@ -3,7 +3,7 @@
 - Jay
 - Jace
 - Jello
-- Backha
+- Bakha
 - Lily
 
 ## 📝 운영방식
