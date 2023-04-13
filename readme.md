@@ -1,5 +1,36 @@
 # 2023 Javascript Deep Dive Study
+## 📌 목차 정리
+
+- [변수](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/variable.md)
+- [할당](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/assignment.md)
+- [표현식과 문(feat. 값, 리터럴)](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/expression%20%26%20statement(feat.%20value%2C%20literal).md)
+- [연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/operator%20intro.md)
+  - [산술 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/arithmetic%20operator.md)
+  - [할당 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/assignment%20operator.md)
+  - [비교 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/comparison%20operator.md)
+  - [삼항 조건 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/ternary%20operator.md)
+  - [논리 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/logical%20operator.md)
+  - [지수 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/exponentiation%20operator.md)
+  - [그 외의 연산자들](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/other%20operators.md)
+  - [연산자의 부수 효과와 우선 연산 순위](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/operator%20additional%20effect.md)
+- [데이터 타입](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/primitive%20type.md)
+  - [원시 타입](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Data%20Type/primitive%20type.md)
+  - [객체 타입](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/object%20type.md)
+
+- [제어문](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Control%20Flow/control%20flow%20statement%20intro.md)
+  - [제어문의 종류](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Control%20Flow/control%20flow%20statements.md)
+- 타입 변환과 단축 평가
+  - [명시적 타입 변환](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/explicit%20coercion.md)
+  - [암묵적 타입 변환](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/implicit%20coercion.md)
+  - [타입 변환과 불변 값](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/type%20casting%20%26%20immutable%20value.md)
+  - [단축 평가](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/short-circuit%20evaluation.md)
+
+<br>
+
+***
+
 ## 🥚 스터디원
+
 - Jay
 - Jace
 - Jello
