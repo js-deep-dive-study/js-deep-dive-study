@@ -13,17 +13,23 @@
   - [지수 연산자](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/exponentiation%20operator.md)
   - [그 외의 연산자들](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/other%20operators.md)
   - [연산자의 부수 효과와 우선 연산 순위](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week2/operator%20additional%20effect.md)
+
 - [데이터 타입](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/primitive%20type.md)
   - [원시 타입](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Data%20Type/primitive%20type.md)
   - [객체 타입](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/object%20type.md)
+  - [원시 값과 객체의 비교]()
+  - 객체 생성 방식
+    - [객체 리터럴에 의한 객체 생성]()
 
 - [제어문](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Control%20Flow/control%20flow%20statement%20intro.md)
   - [제어문의 종류](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Control%20Flow/control%20flow%20statements.md)
+
 - 타입 변환과 단축 평가
   - [명시적 타입 변환](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/explicit%20coercion.md)
   - [암묵적 타입 변환](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/implicit%20coercion.md)
   - [타입 변환과 불변 값](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/type%20casting%20%26%20immutable%20value.md)
   - [단축 평가](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Coercion%20%26%20Short-circuit/short-circuit%20evaluation.md)
+
 
 <br>
 
