@@ -16,7 +16,9 @@
 - [데이터 타입](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/primitive%20type.md)
   - [원시 타입](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Data%20Type/primitive%20type.md)
   - [객체 타입](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week1/object%20type.md)
-
+  - [원시 값과 객체의 비교](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week3/primitive%20%26%20object%20type.md)
+  - 객체 생성 방식
+    - [객체 리터럴에 의한 객체 생성](https://github.com/jacenam/deepdive-squad--archive/blob/Jace/week3/object%20literal.md)
 - [제어문](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Control%20Flow/control%20flow%20statement%20intro.md)
   - [제어문의 종류](https://github.com/jacenam/WIL-archive/blob/main/Web%20Development/JS/JS%20Basics/Control%20Flow/control%20flow%20statements.md)
 - 타입 변환과 단축 평가
